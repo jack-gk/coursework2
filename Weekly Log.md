@@ -54,13 +54,15 @@ Branching, merging and resolving merge conflicts in git
 
 ###### End of week - Satvir
 
-- [x] I made a markdown document containing the functional requirements in a seperate branch and then merged it in
+- [x] I made a markdown document containing the functional requirements in a separate branch and then merged it in
 
 - [x] I have finished my tasks from last week
 
 ###### End of week - Sufiyan
 
-- [x] Finished all the incomplete tasks of last week
+- [x] Function requirements document was created using a branch
+
+- [x] Functional requirements was edited to be aesthetically pleasing
 
   ---
 
