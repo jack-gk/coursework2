@@ -1,3 +1,4 @@
+
 #### Weekly Log
 
 ---
@@ -26,6 +27,13 @@ Introduction to version control with git
 
 - [x] I have successfully made my end of week entry
 
+###### End of week - Sufiyan
+
+- [x] Successfully cloned the repository 
+
+- [x] Added my name to the part2.txt file
+
+- [x] Added my entry for the weekly log
 ---
 
 ##### Week 7
@@ -43,6 +51,8 @@ Branching, merging and resolving merge conflicts in git
 - [ ] The list of functional requirements has not yet been made
 
 - [x] I have finished my tasks from last week
+
+###### End of week - Sufiyan
 
 ---
 
