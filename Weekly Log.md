@@ -1,3 +1,4 @@
+
 #### Weekly Log
 
 ---
@@ -28,19 +29,19 @@ Introduction to version control with git
 
 ###### End of week - Sufiyan
 
-- [x] Successfully cloned the repository 
+- [ ] Successfully cloned the repository 
 
-- [x] Added my name to the part2.txt file
+- [ ] Added my name to the part2.txt file
 
-- [x] Added my entry for the weekly log
+- [ ] Added my entry for the weekly log
 
 ---
 
 ###### End of week - Afrin
 
-- [x] Cloned group's repository
-- [x] Wrote my name on file part2.txt
-- [x] Wrote my weekly entry 
+- [ ] Cloned group's repository
+- [ ] Wrote my name on file part2.txt
+- [ ] Wrote my weekly entry 
   
   ##### Week 7
 
@@ -63,11 +64,13 @@ Branching, merging and resolving merge conflicts in git
 - [x] Function requirements document was created using a branch
 
 - [x] Functional requirements was edited to be aesthetically pleasing
+- [x] Completed last weeks work
 
   ---
 
 ###### End of week - Afrin
-
+- [x] Finished last weeks work
+- [x] Functional requirement document was made 
 ##### Week 8
 
 Introduction to UML and Use Case Diagrams
