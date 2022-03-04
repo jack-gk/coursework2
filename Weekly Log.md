@@ -1,5 +1,3 @@
-
-
 #### Weekly Log
 
 ---
@@ -35,12 +33,16 @@ Introduction to version control with git
 - [x] Added my name to the part2.txt file
 
 - [x] Added my entry for the weekly log
+
 ---
+
 ###### End of week - Afrin
-  - [x] Cloned group's repository
-  - [x] Wrote my name on file part2.txt
-  - [x] Wrote my weekly entry 
-##### Week 7
+
+- [x] Cloned group's repository
+- [x] Wrote my name on file part2.txt
+- [x] Wrote my weekly entry 
+  
+  ##### Week 7
 
 Branching, merging and resolving merge conflicts in git
 
@@ -52,15 +54,17 @@ Branching, merging and resolving merge conflicts in git
 
 ###### End of week - Satvir
 
-- [ ] The list of functional requirements has not yet been made
+- [x] I made a markdown document containing the functional requirements in a seperate branch and then merged it in
 
 - [x] I have finished my tasks from last week
 
 ###### End of week - Sufiyan
-  - [x] Finished all the incomplete tasks of last week
-  ---
-###### End of week - Afrin
 
+- [x] Finished all the incomplete tasks of last week
+
+  ---
+
+###### End of week - Afrin
 
 ##### Week 8
 
