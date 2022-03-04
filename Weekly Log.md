@@ -1,4 +1,5 @@
 
+
 #### Weekly Log
 
 ---
@@ -35,7 +36,10 @@ Introduction to version control with git
 
 - [x] Added my entry for the weekly log
 ---
-
+###### End of week - Afrin
+  - [x] Cloned group's repository
+  - [x] Wrote my name on file part2.txt
+  - [x] Wrote my weekly entry 
 ##### Week 7
 
 Branching, merging and resolving merge conflicts in git
@@ -53,8 +57,10 @@ Branching, merging and resolving merge conflicts in git
 - [x] I have finished my tasks from last week
 
 ###### End of week - Sufiyan
+  - [x] Finished all the incomplete tasks of last week
+  ---
+###### End of week - Afrin
 
----
 
 ##### Week 8
 
