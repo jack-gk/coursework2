@@ -41,10 +41,10 @@ Introduction to version control with git
 - [ ] Wrote my name on file part2.txt
 
 - [ ] Wrote my weekly entry 
-  
-  ---
-  
-  ##### Week 7
+
+---
+
+##### Week 7
 
 Branching, merging and resolving merge conflicts in git
 
@@ -74,9 +74,11 @@ Branching, merging and resolving merge conflicts in git
 
 - [x] Functional requirement document was made 
   
-  ---
   
-  ##### Week 8
+
+---
+
+##### Week 8
 
 Introduction to UML and Use Case Diagrams
 
