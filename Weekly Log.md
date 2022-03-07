@@ -71,6 +71,7 @@ Branching, merging and resolving merge conflicts in git
 ###### End of week - Afrin
 
 - [x] Finished last weeks work
+
 - [x] Functional requirement document was made 
   
   ---
@@ -80,6 +81,8 @@ Branching, merging and resolving merge conflicts in git
 Introduction to UML and Use Case Diagrams
 
 ###### Beginning of week
+
+- Any incomplete tasks from last week
 
 ###### End of week
 
