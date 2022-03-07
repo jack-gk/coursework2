@@ -73,8 +73,6 @@ Branching, merging and resolving merge conflicts in git
 - [x] Finished last weeks work
 
 - [x] Functional requirement document was made 
-  
-  
 
 ---
 
@@ -86,7 +84,9 @@ Introduction to UML and Use Case Diagrams
 
 - Any incomplete tasks from last week
 
-###### End of week
+###### End of week - Satvir
+
+- [x] I have finished my tasks from last week
 
 ---
 
