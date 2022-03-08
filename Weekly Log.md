@@ -154,8 +154,6 @@ Introduction to UML and Use Case Diagrams
 
 ## Week 9
 
-
-
 ### Beginning of week
 
 - 
@@ -194,8 +192,6 @@ Introduction to UML and Use Case Diagrams
 
 ## Week 10
 
-
-
 ### Beginning of week
 
 - 
@@ -233,8 +229,6 @@ Introduction to UML and Use Case Diagrams
 ---
 
 ## Week 11
-
-
 
 ### Beginning of week
 
