@@ -16,6 +16,14 @@ Introduction to version control with git
 
 - All members to write their indivudual end of week entry
 
+**End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
+
 ###### End of week - Satvir
 
 - [x] part2.txt was successfully created
@@ -42,6 +50,14 @@ Introduction to version control with git
 
 - [ ] Wrote my weekly entry 
 
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
+
 ---
 
 ##### Week 7
@@ -53,6 +69,14 @@ Branching, merging and resolving merge conflicts in git
 - Create list of functional requirements
 
 - Any incomplete tasks from last week
+
+**End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
 
 ###### End of week - Satvir
 
@@ -74,6 +98,14 @@ Branching, merging and resolving merge conflicts in git
 
 - [x] Functional requirement document was made 
 
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
+
 ---
 
 ##### Week 8
@@ -84,9 +116,33 @@ Introduction to UML and Use Case Diagrams
 
 - Any incomplete tasks from last week
 
+**End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
+
 ###### End of week - Satvir
 
 - [x] I have finished my tasks from last week
+
+**End of week - Sufiyan**
+
+- [ ] 
+
+**End of week - Afrin**
+
+- [ ] 
+
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
 
 ---
 
@@ -94,7 +150,35 @@ Introduction to UML and Use Case Diagrams
 
 ###### Beginning of week
 
-###### End of week
+**End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
+
+**End of week - Satvir**
+
+- [ ] 
+
+**End of week - Sufiyan**
+
+- [ ] 
+
+**End of week - Afrin**
+
+- [ ] 
+
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
+
+---
 
 ---
 
@@ -102,7 +186,33 @@ Introduction to UML and Use Case Diagrams
 
 ###### Beginning of week
 
-###### End of week
+###### **End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
+
+**End of week - Satvir**
+
+- [ ] 
+
+**End of week - Sufiyan**
+
+- [ ] 
+
+**End of week - Afrin**
+
+- [ ] 
+
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
 
 ---
 
@@ -110,4 +220,32 @@ Introduction to UML and Use Case Diagrams
 
 ###### Beginning of week
 
-###### End of week
+# 
+
+**End of week - Ewan**
+
+- [ ] 
+
+**End of week - Asim**
+
+- [ ] 
+
+**End of week - Satvir**
+
+- [ ] 
+
+**End of week - Sufiyan**
+
+- [ ] 
+
+**End of week - Afrin**
+
+- [ ] 
+
+**End of week - Jack**
+
+- [ ] 
+
+**End of week - Lauren**
+
+- [ ] 
