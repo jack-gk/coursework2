@@ -1,12 +1,12 @@
-#### Weekly Log
+# Weekly Log
 
 ---
 
-##### Week 6
+## Week 6
 
 Introduction to version control with git
 
-###### Beginning of week
+### Beginning of week
 
 - Create part2.txt
 
@@ -16,15 +16,17 @@ Introduction to version control with git
 
 - All members to write their indivudual end of week entry
 
-**End of week - Ewan**
+### **End of week**
+
+#### Ewan
 
 - [ ] 
 
-**End of week - Asim**
+#### Asim
 
 - [ ] 
 
-###### End of week - Satvir
+#### Satvir
 
 - [x] part2.txt was successfully created
 
@@ -34,7 +36,7 @@ Introduction to version control with git
 
 - [x] I have successfully made my end of week entry
 
-###### End of week - Sufiyan
+#### Sufiyan
 
 - [ ] Successfully cloned the repository 
 
@@ -42,7 +44,7 @@ Introduction to version control with git
 
 - [ ] Added my entry for the weekly log
 
-###### End of week - Afrin
+#### Afrin
 
 - [ ] Cloned group's repository
 
@@ -50,41 +52,43 @@ Introduction to version control with git
 
 - [ ] Wrote my weekly entry 
 
-**End of week - Jack**
+#### Jack
 
 - [ ] 
 
-**End of week - Lauren**
+#### Lauren
 
 - [ ] 
 
 ---
 
-##### Week 7
+## Week 7
 
 Branching, merging and resolving merge conflicts in git
 
-###### Beginning of week
+### Beginning of week
 
 - Create list of functional requirements
 
 - Any incomplete tasks from last week
 
-**End of week - Ewan**
+### End of week
+
+#### Ewan
 
 - [ ] 
 
-**End of week - Asim**
+#### Asim
 
 - [ ] 
 
-###### End of week - Satvir
+#### Satvir
 
 - [x] I made a markdown document containing the functional requirements in a separate branch and then merged it in
 
 - [x] I have finished my tasks from last week
 
-###### End of week - Sufiyan
+#### Sufiyan
 
 - [x] Function requirements document was created using a branch
 
@@ -92,160 +96,176 @@ Branching, merging and resolving merge conflicts in git
 
 - [x] Completed last weeks work
 
-###### End of week - Afrin
+#### Afrin
 
 - [x] Finished last weeks work
 
 - [x] Functional requirement document was made 
 
-**End of week - Jack**
+#### Jack
 
 - [ ] 
 
-**End of week - Lauren**
+#### Lauren
 
 - [ ] 
 
 ---
 
-##### Week 8
+## Week 8
 
 Introduction to UML and Use Case Diagrams
 
-###### Beginning of week
+### Beginning of week
 
 - Any incomplete tasks from last week
 
-**End of week - Ewan**
+### End of week
+
+#### Ewan
 
 - [ ] 
 
-**End of week - Asim**
+#### Asim
 
 - [ ] 
 
-###### End of week - Satvir
+#### Satvir
 
 - [x] I have finished my tasks from last week
 
-**End of week - Sufiyan**
+#### Sufiyan
 
 - [ ] 
 
-**End of week - Afrin**
+#### Afrin
 
 - [ ] 
 
-**End of week - Jack**
+#### Jack
 
 - [ ] 
 
-**End of week - Lauren**
-
-- [ ] 
-
----
-
-##### Week 9
-
-###### Beginning of week
-
-**End of week - Ewan**
-
-- [ ] 
-
-**End of week - Asim**
-
-- [ ] 
-
-**End of week - Satvir**
-
-- [ ] 
-
-**End of week - Sufiyan**
-
-- [ ] 
-
-**End of week - Afrin**
-
-- [ ] 
-
-**End of week - Jack**
-
-- [ ] 
-
-**End of week - Lauren**
+#### Lauren
 
 - [ ] 
 
 ---
 
+## Week 9
+
+
+
+### Beginning of week
+
+- 
+
+### End of week
+
+#### Ewan
+
+- [ ] 
+
+#### Asim
+
+- [ ] 
+
+#### Satvir
+
+- [ ] 
+
+#### Sufiyan
+
+- [ ] 
+
+#### Afrin
+
+- [ ] 
+
+#### Jack
+
+- [ ] 
+
+#### Lauren
+
+- [ ] 
+
 ---
 
-##### Week 10
+## Week 10
 
-###### Beginning of week
 
-###### **End of week - Ewan**
 
-- [ ] 
+### Beginning of week
 
-**End of week - Asim**
+- 
 
-- [ ] 
+### End of week
 
-**End of week - Satvir**
+#### Ewan
 
 - [ ] 
 
-**End of week - Sufiyan**
+#### Asim
 
 - [ ] 
 
-**End of week - Afrin**
+#### Satvir
 
 - [ ] 
 
-**End of week - Jack**
+#### Sufiyan
 
 - [ ] 
 
-**End of week - Lauren**
+#### Afrin
+
+- [ ] 
+
+#### Jack
+
+- [ ] 
+
+#### Lauren
 
 - [ ] 
 
 ---
 
-##### Week 11
+## Week 11
 
-###### Beginning of week
 
-# 
 
-**End of week - Ewan**
+### Beginning of week
 
-- [ ] 
+- 
 
-**End of week - Asim**
+### End of week
 
-- [ ] 
-
-**End of week - Satvir**
+#### Ewan
 
 - [ ] 
 
-**End of week - Sufiyan**
+#### Asim
 
 - [ ] 
 
-**End of week - Afrin**
+#### Satvir
 
 - [ ] 
 
-**End of week - Jack**
+#### Sufiyan
 
 - [ ] 
 
-**End of week - Lauren**
+#### Afrin
+
+- [ ] 
+
+#### Jack
+
+- [ ] 
+
+#### Lauren
 
 - [ ] 
