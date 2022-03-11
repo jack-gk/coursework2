@@ -118,6 +118,8 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
+- Create a use case diagram
+- Create 3 use case descriptions
 - Any incomplete tasks from last week
 
 ### End of week
@@ -132,6 +134,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Satvir
 
+- [ ] Create use case diagram
+- [ ] Create 3 use case descriptions
 - [x] I have finished my tasks from last week
 
 #### Sufiyan
@@ -156,9 +160,7 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- 
-
-### End of week
+- ### End of week
 
 #### Ewan
 
@@ -194,9 +196,7 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- 
-
-### End of week
+- ### End of week
 
 #### Ewan
 
@@ -232,9 +232,7 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- 
-
-### End of week
+- ### End of week
 
 #### Ewan
 
