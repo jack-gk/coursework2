@@ -130,12 +130,14 @@ Introduction to UML and Use Case Diagrams
 
 #### Asim
 
-- [ ] 
+- [x] Created a use case diagram
+- [x] Created 3 use case descriptions
+- [x] I caught up with my tasks from last week
 
 #### Satvir
 
-- [ ] Create use case diagram
-- [ ] Create 3 use case descriptions
+- [x] Created use case diagram
+- [x] Created 3 use case descriptions
 - [x] I have finished my tasks from last week
 
 #### Sufiyan
