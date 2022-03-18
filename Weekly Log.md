@@ -142,7 +142,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Sufiyan
 
-- [ ] 
+- [x] Created use case diagram
+- [x] I finished my work from last week
 
 #### Afrin
 
@@ -162,7 +163,11 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- ### End of week
+- Complete 3 use case descriptions
+
+- FInish off any incomplete work from previous weeks
+
+### End of week
 
 #### Ewan
 
@@ -174,11 +179,13 @@ Introduction to UML and Use Case Diagrams
 
 #### Satvir
 
-- [ ] 
+- [x] I created 3 use case descriptions
+- [x] I have finished my work from last week
 
 #### Sufiyan
 
-- [ ] 
+- [x] I created 3 use case descriptions
+- [x] I have done my work from last week
 
 #### Afrin
 
