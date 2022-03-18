@@ -142,7 +142,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Sufiyan
 
-- [ ] 
+- [x] Created use case diagram
+- [x] I finished my work from last week
 
 #### Afrin
 
