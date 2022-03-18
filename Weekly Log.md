@@ -183,7 +183,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Sufiyan
 
-- [ ] 
+- [x] I created 3 use case descriptions
+- [x] I have done my work from last week
 
 #### Afrin
 
