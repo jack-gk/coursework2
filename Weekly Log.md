@@ -162,7 +162,11 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- ### End of week
+- Complete 3 use case descriptions
+
+- FInish off any incomplete work from previous weeks
+
+### End of week
 
 #### Ewan
 
