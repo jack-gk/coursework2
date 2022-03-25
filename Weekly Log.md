@@ -218,7 +218,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Asim
 
-- [ ] 
+- [x] Created UML diagram
+- [x] Ive done my work from last week
 
 #### Satvir
 
