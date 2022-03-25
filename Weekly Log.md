@@ -221,7 +221,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Satvir
 
-- [ ] 
+- [x] Created UML Diagram
+- [x] I have finished my work off from last week
 
 #### Sufiyan
 
