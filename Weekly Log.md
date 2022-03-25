@@ -205,7 +205,11 @@ Introduction to UML and Use Case Diagrams
 
 ### Beginning of week
 
-- ### End of week
+- Create UML diagram
+
+- Finish off work from last week
+
+### End of week
 
 #### Ewan
 
