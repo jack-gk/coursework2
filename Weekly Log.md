@@ -227,7 +227,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Sufiyan
 
-- [ ] 
+- [x] Created  UML diagram with Satvir and Asim
+- [x] Finished tasks from last week
 
 #### Afrin
 
