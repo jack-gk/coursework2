@@ -175,7 +175,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Asim
 
-- [ ] 
+- [x] The use case descriptions were made
+- [x] Finished work from last week
 
 #### Satvir
 
