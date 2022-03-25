@@ -24,7 +24,7 @@ Introduction to version control with git
 
 #### Asim
 
-- [ ] 
+- [ ] Wrote my weekly entry
 
 #### Satvir
 
@@ -80,7 +80,7 @@ Branching, merging and resolving merge conflicts in git
 
 #### Asim
 
-- [ ] 
+- [ ] Caught up on last week
 
 #### Satvir
 
