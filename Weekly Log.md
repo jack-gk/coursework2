@@ -98,7 +98,7 @@ Branching, merging and resolving merge conflicts in git
 
 #### Afrin
 
-- [x] Finished last weeks work
+- [x] Finished last week's work
 
 - [x] Functional requirement document was made 
 
@@ -147,7 +147,7 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [x] Created Uml and use case diagram
+- [x] Created use case diagrams
 - [x] Done all the tasks from last week 
 
 #### Jack
@@ -166,7 +166,7 @@ Introduction to UML and Use Case Diagrams
 
 - Complete 3 use case descriptions
 
-- FInish off any incomplete work from previous weeks
+- Finish off any incomplete work from previous weeks
 
 ### End of week
 
@@ -191,7 +191,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [ ] 
+- [X] Wrote 3 use case descriptions
+- [X] Finished all my task from last week
 
 #### Jack
 
@@ -234,7 +235,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [ ] 
+- [X] Created UML Diagram
+- [X] Finished my task from last week
 
 #### Jack
 
