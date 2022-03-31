@@ -147,7 +147,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [ ] 
+- [x] Created Uml and use case diagram
+- [x] Done all the tasks from last week 
 
 #### Jack
 
