@@ -265,7 +265,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Satvir
 
-- [ ] 
+- [x] We already finished the UML class diagram last week
+- [x] I've finished my work from last week
 
 #### Sufiyan
 
