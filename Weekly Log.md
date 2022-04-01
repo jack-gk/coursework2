@@ -172,7 +172,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Ewan
 
-- [x] 
+- [x] Use case descriptions were made
+- [x] Caught up on previous work
 
 #### Asim
 
