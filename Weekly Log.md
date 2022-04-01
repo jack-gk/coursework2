@@ -38,19 +38,19 @@ Introduction to version control with git
 
 #### Sufiyan
 
-- [ ] Successfully cloned the repository 
+- [x] Successfully cloned the repository 
 
-- [ ] Added my name to the part2.txt file
+- [x] Added my name to the part2.txt file
 
-- [ ] Added my entry for the weekly log
+- [x] Added my entry for the weekly log
 
 #### Afrin
 
-- [ ] Cloned group's repository
+- [x] Cloned group's repository
 
-- [ ] Wrote my name on file part2.txt
+- [x] Wrote my name on file part2.txt
 
-- [ ] Wrote my weekly entry 
+- [x] Wrote my weekly entry 
 
 #### Jack
 
