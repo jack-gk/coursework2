@@ -24,7 +24,7 @@ Introduction to version control with git
 
 #### Asim
 
-- [ ] Wrote my weekly entry
+- [x] Wrote my weekly entry
 
 #### Satvir
 
@@ -80,7 +80,7 @@ Branching, merging and resolving merge conflicts in git
 
 #### Asim
 
-- [ ] Caught up on last week
+- [x] Caught up on last week
 
 #### Satvir
 
@@ -191,8 +191,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [X] Wrote 3 use case descriptions
-- [X] Finished all my task from last week
+- [x] Wrote 3 use case descriptions
+- [x] Finished all my task from last week
 
 #### Jack
 
@@ -235,8 +235,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Afrin
 
-- [X] Created UML Diagram
-- [X] Finished my task from last week
+- [x] Created UML Diagram
+- [x] Finished my task from last week
 
 #### Jack
 
