@@ -58,7 +58,7 @@ Introduction to version control with git
 
 #### Lauren
 
-- [ ] 
+- [x ] 
 wrote my name to part2.txt
 wrote my weekly entry
 cloned the group's repository
@@ -110,7 +110,7 @@ Branching, merging and resolving merge conflicts in git
 
 #### Lauren
 
-- [ ] 
+- [ x] 
 caught up wuth last week's work
 the functional requirement document had been made using a branch
 functional requriements were also editied to be made more aesthetically pleasing
@@ -160,7 +160,7 @@ Introduction to UML and Use Case Diagrams
 
 #### Lauren
 
-- [ ] 
+-  [x] 
 case diagram was created 
 went over case diagram to check if anything needed changing and for my own understanding
 finished tasks from the previous week
@@ -208,7 +208,7 @@ finished tasks from the previous week
 #### Lauren
 case descriptions were made 
 checked case descriptions to make sure everything met the requirements aor any chnages needed to be made 
-- [ ] 
+- [x] 
 
 ---
 
@@ -252,7 +252,7 @@ checked case descriptions to make sure everything met the requirements aor any c
 
 #### Lauren
 
-- [ ] uml diagram has been created 
+- [x] uml diagram has been created 
 went over uml diagram for my own understanding and checked if any edits needed to be done 
 
 ---
@@ -294,4 +294,4 @@ went over uml diagram for my own understanding and checked if any edits needed t
 
 #### Lauren
 
-- [ ] uml class diagram had been finished in the previous week
+- [x ] uml class diagram had been finished in the previous week
