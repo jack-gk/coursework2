@@ -59,7 +59,9 @@ Introduction to version control with git
 #### Lauren
 
 - [ ] 
-
+wrote my name to part2.txt
+wrote my weekly entry
+cloned the group's repository
 ---
 
 ## Week 7
@@ -109,7 +111,9 @@ Branching, merging and resolving merge conflicts in git
 #### Lauren
 
 - [ ] 
-
+caught up wuth last week's work
+the functional requirement document had been made using a branch
+functional requriements were also editied to be made more aesthetically pleasing
 ---
 
 ## Week 8
