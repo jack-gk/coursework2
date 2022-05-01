@@ -161,7 +161,9 @@ Introduction to UML and Use Case Diagrams
 #### Lauren
 
 - [ ] 
-
+case diagram was created 
+went over case diagram to check if anything needed changing and for my own understanding
+finished tasks from the previous week
 ---
 
 ## Week 9
@@ -204,7 +206,8 @@ Introduction to UML and Use Case Diagrams
 - [ ] 
 
 #### Lauren
-
+case descriptions were made 
+checked case descriptions to make sure everything met the requirements aor any chnages needed to be made 
 - [ ] 
 
 ---
@@ -249,7 +252,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Lauren
 
-- [ ] 
+- [ ] uml diagram has been created 
+went over uml diagram for my own understanding and checked if any edits needed to be done 
 
 ---
 
@@ -290,4 +294,4 @@ Introduction to UML and Use Case Diagrams
 
 #### Lauren
 
-- [ ] 
+- [ ] uml class diagram had been finished in the previous week
