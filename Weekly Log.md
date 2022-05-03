@@ -54,7 +54,11 @@ Introduction to version control with git
 
 #### Jack
 
-- [ ] 
+- [x] Wrote in a weekly log entry
+
+- [x] Setup GitHub Desktop and cloned group repository
+
+- [x] Added my name to part2.txt  
 
 #### Lauren
 
@@ -106,7 +110,9 @@ Branching, merging and resolving merge conflicts in git
 
 #### Jack
 
-- [ ] 
+- [x] Finished last weeks work
+
+- [x] Contributed to functional requirements page
 
 #### Lauren
 
@@ -156,7 +162,8 @@ Introduction to UML and Use Case Diagrams
 
 #### Jack
 
-- [ ] 
+- [x] Checked validity of case diagrams
+- [x] Finished last weeks work
 
 #### Lauren
 
@@ -203,7 +210,8 @@ finished tasks from the previous week
 
 #### Jack
 
-- [ ] 
+- [x] Finished work from previous week
+- [x] Checked and added case descriptions   
 
 #### Lauren
 case descriptions were made 
@@ -248,7 +256,8 @@ checked case descriptions to make sure everything met the requirements aor any c
 
 #### Jack
 
-- [ ] 
+- [x] Finished work from last week
+- [x] Created UML diagram 
 
 #### Lauren
 
@@ -290,7 +299,7 @@ went over uml diagram for my own understanding and checked if any edits needed t
 
 #### Jack
 
-- [ ] 
+- [x] Checked over work that has already been done 
 
 #### Lauren
 
