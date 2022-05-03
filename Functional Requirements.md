@@ -52,4 +52,4 @@
 
 - Better navigation design
 
-- server keeping logs on booking status
+- Server keeping logs on booking status
